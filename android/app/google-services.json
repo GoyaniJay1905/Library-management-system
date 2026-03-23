@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "471663152445",
+    "project_id": "library-management-syste-4094b",
+    "storage_bucket": "library-management-syste-4094b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471663152445:android:7863be77023041b5310954",
+        "android_client_info": {
+          "package_name": "com.example.problemsheet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471663152445-u7i4evt9l2k997rpash84qdgrvuona47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ-2uMOmg_DoWehUabDOaERE8HRV7ob1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471663152445-u7i4evt9l2k997rpash84qdgrvuona47.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "471663152445-fld84rh3jgl4g79ug4e8jgo9v5g54bea.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.problemsheet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471663152445:android:a67ce52d3269f2bf310954",
+        "android_client_info": {
+          "package_name": "com.example.problemsheet1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471663152445-u7i4evt9l2k997rpash84qdgrvuona47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ-2uMOmg_DoWehUabDOaERE8HRV7ob1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471663152445-u7i4evt9l2k997rpash84qdgrvuona47.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "471663152445-fld84rh3jgl4g79ug4e8jgo9v5g54bea.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.problemsheet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471663152445:android:4c210239c579f5d0310954",
+        "android_client_info": {
+          "package_name": "com.example.problemshhet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471663152445-u7i4evt9l2k997rpash84qdgrvuona47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ-2uMOmg_DoWehUabDOaERE8HRV7ob1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471663152445-u7i4evt9l2k997rpash84qdgrvuona47.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "471663152445-fld84rh3jgl4g79ug4e8jgo9v5g54bea.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.problemsheet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
